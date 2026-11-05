@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-content-governance-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-content-governance",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-content-governance-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/content-governance.md",
+  "presentationPlan": "projects/cms/nuxt/content-governance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
